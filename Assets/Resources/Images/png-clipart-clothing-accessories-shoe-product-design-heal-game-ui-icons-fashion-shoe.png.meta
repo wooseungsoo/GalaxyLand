@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: fb089e24fa91f944b94e230d080b8693
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4410aa310267c374592ef9724a648c5f
+      internalID: 68543161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0953e0c3d4c94d85424d822bced5d
+      internalID: 585589463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc098ceb8eab10c439a5ce041eef7a1e
+      internalID: -1743737555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded15cdb470ef8547bed7480cf288d49
+      internalID: -1107376662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_4
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d02a68695c0394ab7e7ff9722a8a24
+      internalID: -2095435123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d129fac2bd5c34bb1f78d2816f74bf
+      internalID: 734560856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_6
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 171
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91863e448515feb428a2559e17eda670
+      internalID: 25722702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed26f4fdd3a6d1468ec6e252464305e
+      internalID: -1812390596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160acbaf2e33020438dd057ffbb1321c
+      internalID: -727264769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cced06be8f754c960ba15c65d9780
+      internalID: -1996856792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ececf2f44b9d8a458bec58cee87b2c3
+      internalID: 401003966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba325e9de125d458e27dcd8e1a231c
+      internalID: -2000825544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_12
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8460a811b63b27442b64ea0f285eb100
+      internalID: 1603690963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_13
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 30
+        width: 115.71429
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1149ac917d16b8148a4cab1314871a9b
+      internalID: 646236387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_0: 68543161
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_1: 585589463
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_10: 401003966
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_11: -2000825544
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_12: 1603690963
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_13: 646236387
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_2: -1743737555
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_3: -1107376662
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_4: -2095435123
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_5: 734560856
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_6: 25722702
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_7: -1812390596
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_8: -727264769
+      png-clipart-clothing-accessories-shoe-product-design-heal-game-ui-icons-fashion-shoe_9: -1996856792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
