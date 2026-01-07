@@ -3,6 +3,12 @@ GalaxyLand (Team Project) — My Contribution
 본 프로젝트에서 UI 구현 및 Firebase 기반 계정/데이터 연동 기능을 주로 담당했습니다.
 빌딩 건설의 핵심 시스템(배치/생성)은 팀원이 구현했고, 저는 해당 시스템을 기반으로 UI 흐름 및 서버 저장/불러오기 로직을 연결하여 실제 플레이 루프가 완성되도록 작업했습니다.
 
+<<시작 플레이 화면>> 로그인 되어있다면 게임 시작시 바로 해당 계정의 빌딩로그를 불러옵니다
+
+https://github.com/user-attachments/assets/8cafd000-5b20-4865-ac1c-3ea62fff0a1e
+
+
+
 Key Contributions (개발 서브 증빙)
 
 UI 작업 대부분 구현
